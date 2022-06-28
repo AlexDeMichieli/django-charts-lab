@@ -27,7 +27,7 @@ python manage.py runserver
 
 The `home.html` page includes code that is responsible for updating the database with a new product via POST request through django-rest.
 
-You will be provided with a form and a (almost fully written) JavaScript fetch function. You'll need to spend some time reading the function and understand where the input from the form should fit in the function itself.
+You will be provided with a form and a (almost fully written) JavaScript fetch function. You'll need to spend some time reading the function and understanding where the input from the form should fit in the function itself.
 
 You should use the console panel in the browser to debug possible errors and visit the admin page (http://127.0.0.1:8000/admin/) to verify if a new proudct appears after each call.
 
